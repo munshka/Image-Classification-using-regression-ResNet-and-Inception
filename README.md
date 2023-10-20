@@ -1,7 +1,5 @@
 # Image-Classification-using-regression-ResNet-and-Inception
 
-# Custom Deep Learning Models for Image Classification
-
 This repository contains custom deep learning models for image classification using TensorFlow and Keras. The models have been designed to provide flexibility and customization options for different image classification tasks.
 
 ## Models Overview
